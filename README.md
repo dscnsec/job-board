@@ -7,6 +7,7 @@ Sign Up and Log In Page <br>
 Profile page of workers <br>
 A Job-view board in which user can post their jobs, in which any workers can apply. <br>
 A Job matcher board, in which user can view the perfect matched workers, according to skills. </br>
+You can link your LinkdIn Profile for more clarity as well. </br>
 
 ## Techstack
 Framework - Python Django <br>
