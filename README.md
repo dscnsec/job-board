@@ -12,6 +12,8 @@ A Job matcher board, in which user can view the perfect matched workers, accordi
 ## Techstack
 Framework - Python Django <br>
 Database - PostgreSQL
+### Mentors: 
 
-## Mentors
-Mayank Gupta
+| Name | Github |
+| -- | -- |
+| Mayank Gupta | [mayankgbrc](https://github.com/mayankgbrc) |
