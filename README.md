@@ -1,3 +1,4 @@
+<p align="center"><img src="poster_jobboard.jpeg"></p>
 # Hope Foundation Job Portal
 Hope Foundation is an NGO, which gives skills training, mostly to orphanage people, where skills like Carpentry, Security, Typist, Painting, etc. To help them to get jobs. <br>
 We have to make a web portal, where user can post their requirements, and workers can make have their own profile. So, this portal helps the user to get a perfect job, by showing correct matches relevant to their skills, which works on randomness matches or based on average number of job that a worker have, We also need to care, that everyone should get an opportunity to get a job, this will not be like one person is getting 4 jobs, and another one is not getting a single one.
@@ -11,3 +12,6 @@ A Job matcher board, in which user can view the perfect matched workers, accordi
 ## Techstack
 Framework - Python Django <br>
 Database - PostgreSQL
+
+## Mentors
+Mayank Gupta
