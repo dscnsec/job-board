@@ -9,6 +9,9 @@ Profile page of workers <br>
 A Job-view board in which user can post their jobs, in which any workers can apply. <br>
 A Job matcher board, in which user can view the perfect matched workers, according to skills. </br>
 
+## Contribution
+Anyone who wants to contribute in this repo, Join this slack channel - http://dscnsec.slack.com/#job-board, and drop a message which will contain your introduction and what are you going to contribute in this repo.
+
 ## Techstack
 Framework - Python Django <br>
 Database - PostgreSQL
