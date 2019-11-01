@@ -19,6 +19,6 @@ from users import views as users_views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('job-board/register/', users_views.register, name='register'),
+    #path('job-board/register/', users_views.register, name='register'),
     path('job-board/', include('job_board.urls')),
 ]
