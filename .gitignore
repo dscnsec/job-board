@@ -1,0 +1,5 @@
+# Ignore settings.py
+settings.py
+
+#ignore database
+db.sqlite3
